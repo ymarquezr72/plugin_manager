@@ -1,0 +1,1 @@
+{"id": {"name": "test_plugin", "version": "1.0.0"}, "manifest": {"name": "test_plugin", "version": "1.0.0", "author": "Yosvany M\u00e1rquez Ruiz", "display_name": "Input Plugin", "category": "Input Plugin", "description": "description data", "labels": ["CSV", "Input"]}, "status": "enabled", "installed_at": "2025-05-16T19:16:02.848864", "installation_path": ""}
